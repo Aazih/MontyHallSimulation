@@ -22,10 +22,11 @@ An explanation of the Monty Hall Problem can be found, as of August 2024, at [Wi
 
 ## TODO
 
-* Extend program to provide option on how many doors to eliminate when running for more than 3 doors
+* ~~Extend program to provide option on how many doors to eliminate when running for more than 3 doors~~
 * Error checking on interactive prompts.
 
 ## ChangeLog
 
 * 2024-Aug-03_1: Initial version
 * 2024-Aug-03_2: Add code comments and minor updates to print statements
+* 2024-Aug-03_3: Added feature to eliminate more than one door.
